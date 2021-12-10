@@ -1,3 +1,3 @@
 #!/bin/bas
 
-echo "hola mundo"
+echo "hola mundo!"
